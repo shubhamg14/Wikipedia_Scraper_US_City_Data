@@ -66,4 +66,4 @@ __Screenshot of CSV File__
 
 ## Executing the code
 
-In terminal type "__python wiki_scraper.py__" and code will execute. The final csv would be generated at the location from where the code is run.
+In terminal type "__python wiki_scraper.py__" and code will execute. __The final csv would be generated at the location from where the code is run.__
