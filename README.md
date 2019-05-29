@@ -6,6 +6,7 @@ Web Scraper written in python using Beautiful Soup library to fetch data for top
 1. Python 3
 2. Beautiful Soup
 3. Pandas
+4. Unicodedata
 
 ## Description
 
@@ -65,4 +66,4 @@ __Screenshot of CSV File__
 
 ## Executing the code
 
-In terminal type "__python3 wiki_scraper.py__" and code will execute. The final csv would be generated at the location from where the code is run.
+In terminal type "__python wiki_scraper.py__" and code will execute. The final csv would be generated at the location from where the code is run.
