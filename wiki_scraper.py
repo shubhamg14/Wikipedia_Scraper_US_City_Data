@@ -1,4 +1,4 @@
-#To run this code got to command prompt and type "python3 wiki_scraper.py"
+#To run this code got to command prompt and type "python wiki_scraper.py"
 #The final CSV file would be generated at the path from where the code has been run 
 
 #importing beautiful soup library(HTML parsing library for python)
