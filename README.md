@@ -54,6 +54,11 @@ __Screenshot-2__
 
 ![alt text](https://github.com/shubhamg14/Wikipedia_Scraper_US_City_Data/blob/master/Big_Query_Screenshots/wiki_scraping_big_query_2.PNG)
 
+
+__Screenshot-3__
+
+![alt text](https://github.com/shubhamg14/Wikipedia_Scraper_US_City_Data/blob/master/Big_Query_Screenshots/wiki_scraping_big_query_3.PNG)
+
 __Screenshot of CSV File__
 
 ![alt text](https://github.com/shubhamg14/Wikipedia_Scraper_US_City_Data/blob/master/Big_Query_Screenshots/wiki_scraping_csv.PNG)
